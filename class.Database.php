@@ -1,7 +1,7 @@
 <?php
 /*
  * Simple MySQL Database Class
- * Website: http://github.com/manverualma/simple-mysql-database-class/
+ * Website: http://github.com/michaelday/simple-mysql-database-class/
  *
  * Copyright (C) 2012 by Michael Day
  *
